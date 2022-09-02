@@ -1,4 +1,4 @@
-package com.example.treco_desania
+package com.example.tradutor
 
 import io.flutter.embedding.android.FlutterActivity
 
